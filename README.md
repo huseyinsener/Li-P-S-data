@@ -3,5 +3,5 @@ This repository contains the data for the work titled "Atomic-level Insights int
 
 The data is composed of:
 1) Relaxed bulk structures,
-2) Relaxed surfaces with minimum surface formation energies
-3) Relaxed interfaces between lithium thiophosphates electrolyte and Li-metal anode (Li-P-S//Li)
+2) Relaxed surfaces with minimum surface formation energies,
+3) Relaxed interfaces between lithium thiophosphates electrolyte and Li-metal anode (Li-P-S//Li).
